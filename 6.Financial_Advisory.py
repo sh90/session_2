@@ -43,7 +43,7 @@ class FinancialAdvisorAgent:
 
 
 # Example usage
-advisor = FinancialAdvisorAgent("")
+advisor = FinancialAdvisorAgent("<api-key>")
 
 user_profile = {
     "age": 42,
